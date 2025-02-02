@@ -258,7 +258,7 @@
       "Difficulty": "Medium",
       "Frequency": "2.6857170372662447",
       "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-      "completed": false
+      "completed": true
     },
     {
       "id": "8bec",
@@ -398,7 +398,7 @@
       "Difficulty": "Medium",
       "Frequency": "2.303733858197919",
       "Leetcode Question Link": "https://leetcode.com/problems/rotate-image",
-      "completed": false
+      "completed": true
     },
     {
       "id": "0220",
@@ -408,7 +408,7 @@
       "Difficulty": "Medium",
       "Frequency": "2.2943555684399337",
       "Leetcode Question Link": "https://leetcode.com/problems/validate-binary-search-tree",
-      "completed": false
+      "completed": true
     },
     {
       "id": "93b0",
@@ -1068,7 +1068,7 @@
       "Difficulty": "Medium",
       "Frequency": "1.3737513023422454",
       "Leetcode Question Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
-      "completed": false
+      "completed": true
     },
     {
       "id": "a913",
@@ -1948,7 +1948,7 @@
       "Difficulty": "Medium",
       "Frequency": "0.6690496289808848",
       "Leetcode Question Link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
-      "completed": false
+      "completed": true
     },
     {
       "id": "c65f",
